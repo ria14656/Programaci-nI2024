@@ -1,0 +1,61 @@
+UNIVERSIDAD MARIANO GALVEZ DE GUATEMALA 
+
+SEDE JALAPA 
+
+FACULTAD DE INGENIERIA EN SISTEMAS 
+
+PROGRAMACION I 
+
+INGE: MARCO TULIO VALDEZ  
+
+1. ¿Qué es GIT? 
+
+2. ¿Cuáles son los comandos más importantes y para qué sirven? 
+
+3. ¿Cuál es la diferencia entre Git y GitHub? 
+
+4. Enumere los comandos para subir cambios a un repositorio. 
+
+5. ¿Qué es una branch  ? 
+
+ARIATNA ODETH BERGANZA VILLATORO 
+
+0907-23-5837
+
+
+
+DIFERENCIA DE GIT Y GITHUB 
+
+GIT es un sistema de control de versiones distribuido que te permite llevar un control de los cambios que haces en tus archivos y volver a versiones anteriores si cometemos un error. Linus Torvalds lo diseñó para garantizar la eficiencia y confiabilidad del mantenimiento de versiones de aplicaciones con muchos archivos de código fuente. 
+
+ Algunos de los comandos más importantes de GIT son: 
+
+GIT INIT: Crea un nuevo repositorio local GIT. 
+
+GIT ADD: Agrega archivos al área de preparación para ser confirmados. 
+
+GIT STATUS: Muestra el estado de los archivos en el directorio de trabajo y el área de preparación. 
+
+GIT PUSH: Envía los cambios confirmados a un repositorio remoto. 
+
+GIT PULL: Recibe los cambios desde un repositorio remoto y los fusiona con la rama local. 
+
+GIT CLONE: Copia un repositorio existente desde un servidor remoto o local. 
+
+La diferencia principal entre Git y GitHub  
+
+Git es una herramienta open source que los desarrolladores instalan localmente para administrar el código fuente, mientras que GitHub es un servicio en línea al que los desarrolladores que utilizan Git pueden conectarse y subir o descargar recursos. GitHub ofrece funcionalidades adicionales como alojamiento de repositorios, colaboración, revisión de código, gestión de proyectos, entre otras. 
+
+ Los comandos para subir cambios a un repositorio son: 
+
+    GIT ADD: Prepara todos los archivos modificados para ser verificados. 
+
+    GIT COMMIT: Realiza los cambios con un mensaje descriptivo. 
+
+    GIT PUSH ORIGIN MAIN: envía los cambios a la rama principal del            
+
+               repositorio remoto llamado origin. 
+
+ BRANCH 
+
+Es una forma de separar el trabajo en curso del código principal del proyecto. Permite a varios desarrolladores trabajar en diferentes características o correcciones de errores en paralelo, sin afectar el código principal. Cada rama es una copia del código que se puede modificar y fusionar con otras ramas según sea necesario. La rama principal suele llamarse máster y contiene la versión estable y funcional del proyecto.
